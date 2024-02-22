@@ -1,0 +1,51 @@
+{
+    "[typescriptreact]": {
+        "editor.codeActionsOnSave": {
+            "editor.defaultFormatter": "esbenp.prettier-vscode",
+            "source.organizeImports": true
+        }
+    },
+    "[typescript]": {
+        "editor.codeActionsOnSave": {
+            "editor.defaultFormatter": "esbenp.prettier-vscode",
+            "source.organizeImports": true
+        }
+    },
+    "editor.formatOnSave": true,
+    "editor.tabSize": 4,
+    "cSpell.language": "en,pt-BR,pt",
+    "files.eol": "\r\n",
+    "editor.wordWrap": "on",
+    "cSpell.words": [
+        "dayjs",
+        "formik",
+        "Formik",
+        "reseted"
+    ],
+    "material-icon-theme.files.associations": {
+        "index.tsx": "react",
+        "mock.ts": "template",
+        "mock.tsx": "template",
+        "mocks.ts": "template",
+        "mocks.tsx": "template",
+        "*.mock.ts": "template",
+        "*.mock.tsx": "template",
+        "styles.ts": "storybook",
+        "styles.tsx": "storybook",
+        "types.ts": "typescript",
+        "types.tsx": "typescript",
+        "yup.ts": "conduct",
+        "yup.tsx": "conduct",
+        "routes/index.tsx": "routing",
+        "configs/index.ts": "settings",
+        "configs/index.tsx": "settings",
+        "utils.ts": "wallaby",
+        "*.utils.ts": "wallaby",
+        "utils.tsx": "wallaby",
+        "*.utils.tsx": "wallaby",
+    },
+    "material-icon-theme.folders.associations": {
+        "yup": "test",
+        "xlsx": "vuepress",
+    },
+}

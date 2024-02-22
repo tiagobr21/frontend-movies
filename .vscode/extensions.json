@@ -1,0 +1,12 @@
+{
+	"recommendations": [
+		"editorconfig.editorconfig",
+		"naumovs.color-highlight",
+		"formulahendry.auto-rename-tag",
+		"streetsidesoftware.code-spell-checker",
+		"streetsidesoftware.code-spell-checker-portuguese-brazilian",
+		"esbenp.prettier-vscode",
+		"mechatroner.rainbow-csv",
+		"styled-components.vscode-styled-components"
+	]
+}
